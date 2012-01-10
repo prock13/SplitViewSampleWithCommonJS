@@ -1,0 +1,63 @@
+dependencies: \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiUIiPhoneProxy.m \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiUIiPhoneProxy.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiProxy.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiBase.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiThreading.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiPublicAPI.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiEvaluator.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/KrollContext.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/headers/TiCore/TiCore.h \
+  headers/TiCore/Ti.h headers/TiCore/TiBase.h \
+  headers/TiCore/TiContextRef.h headers/TiCore/TiObjectRef.h \
+  headers/TiCore/TiValueRef.h headers/TiCore/WebKitAvailability.h \
+  headers/TiCore/TiStringRef.h headers/TiCore/TiStringRefCF.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/headers/TiCore/TiContextRefPrivate.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/KrollCallback.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/KrollObject.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiUtils.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiColor.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiDimension.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/WebFont.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiFile.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiBuffer.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiBlob.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiApp.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiHost.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/Bridge.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiStylesheet.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/KrollBridge.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiModule.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/XHRBridge.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiRootViewController.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiRootController.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiWindowProxy.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiViewProxy.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiUIView.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiAnimation.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiPoint.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/ListenerEntry.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/LayoutConstraint.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiGradient.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiTab.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiTabGroup.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiUIWindow.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiViewController.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiUIiPhoneAnimationStyleProxy.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiUIiPhoneStatusBarProxy.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiUIiPhoneRowAnimationStyleProxy.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiUIiPhoneSystemButtonStyleProxy.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiUIiPhoneSystemButtonProxy.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiUIiPhoneProgressBarStyleProxy.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiUIiPhoneActivityIndicatorStyleProxy.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiUIiPhoneSystemIconProxy.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiUIiPhoneScrollIndicatorStyleProxy.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiUIiPhoneTableViewStyleProxy.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiUIiPhoneTableViewSeparatorStyleProxy.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiUIiPhoneTableViewScrollPositionProxy.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiUIiPhoneTableViewCellSelectionStyleProxy.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiUIiPhoneNavigationGroupProxy.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiUIiPadProxy.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiUIiPadPopoverProxy.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiUIiPadSplitWindowProxy.h \
+  /Users/pablo/Development/iPhoneDev/SplitViewSampleWithCommonJS/build/iphone/Classes/TiUIiPadDocumentViewerProxy.h
